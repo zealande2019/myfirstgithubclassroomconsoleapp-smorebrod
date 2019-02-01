@@ -2,6 +2,6 @@
 {
     public class demo
     {
-        
+        public int nr { get; set; }
     }
 }
